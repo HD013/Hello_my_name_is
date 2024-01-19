@@ -6,19 +6,19 @@
 Allow me to introduce myself:
 
 
-> I bring a blend of technical expertise in data science and biology, along with a proven track record of collaborative research and consulting. My ability to uncover valuable insights from complex data sets and my proficiency in analytical tools like Python, R, SQL, and GIS are directly applicable to any analytical requirements of data analysis at any level. Furthermore, my experience in documenting and reporting scientific findings prepares me to explain any key findings clearly and concisely. I bring several work experiences and qualities that make me a strong fit for anything that requires the resourceful use of data.
+> I am a recent research biologist. I was luck to do some cool work with species interactions involving chemial defenses. I used clues embbeded in a species metabolome (sort of like a chemical genome) - to draw conclusions about The how they interact in the presents and about they're evolutionary history. Check below if you'd like to read deeper into chemically mediated interactions between species.
+>
+> <br>
+
+> The work with chemical interactions was computationally intensive, with thousands of individual compounds identified within each single group of (plant) speices. The learning curve to pick up this chem analysis pipeline was intense. This and other projects had me repeatedly idenifiy a problem or question, apply the appropriate stastical model to answer or test it, and then (struggle to) code it up, and present the results.
+
+> <br>
+
+> During COVID my work was more analytical than in the field. I came to love the challenge of solving unique puzzles and presenting them in a fun (clear) way. The ability to solve a problem statistically is a skill that extends far beyond research or evolutionary biology. I am rearing to get out and apply this way of learning to other challenges. Read: I am looking for jobs that involve problem solveing (and hopefully coding), interesting projects and people ;) 
 
 <br>
-
 Learn more about me and sample some of my work. Reach out if something catches your eye, I am always looking for collaborators. 
 
-<br>
-
-## About
-<br>
-
-
-## Selected Projects
 <br>
 
 
