@@ -54,7 +54,6 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13628
 ## Resume
 <br>
 
-[Resume](https://hdo13.weebly.com/uploads/1/4/8/3/148306044/dh_resume8_.pdf)
 
 <br>
 
