@@ -3,7 +3,7 @@
 
 ## Thanks for stopping by!
 
-Allow me to introduce myself:
+Allow me to introduce myself: 
 
 
 I am a research biologist and data scientist. I was fortunate to do some cool work with species interactions involving chemial defenses. I used clues embbeded in a species metabolome (sort of like a chemical genome) - to draw conclusions about how they interact in the present and about they're evolutionary history. Check below if you'd like to read deeper into chemically mediated interactions between species.
