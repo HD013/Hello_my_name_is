@@ -1,7 +1,7 @@
 
 # Hello_my_name_is David
 
-## Thanks for stopping by!
+## Thanks for stopping by
 
 Allow me to introduce myself.
 
